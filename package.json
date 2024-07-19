@@ -11,11 +11,14 @@
   },
   "dependencies": {
     "@serwist/next": "^9.0.5",
+    "@tanstack/react-query": "^5.51.9",
+    "clsx": "^2.1.1",
     "next": "14.2.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@tanstack/react-query-devtools": "^5.51.9",
     "@types/node": "^20.14.11",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
