@@ -7,6 +7,7 @@
     "dev:https": "pnpm run dev --experimental-https",
     "build": "next build",
     "start": "next start",
+    "start:https": "pnpm run start --experimental-https",
     "lint": "next lint"
   },
   "dependencies": {
